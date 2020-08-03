@@ -1,0 +1,43 @@
+.navbar{
+    background:black;
+}
+.navbar-header a{
+    opacity:0.6;
+    color:white;
+}
+.navbar-header a:hover{
+    opacity:1;
+}
+.navbar-right li a{
+    color:white;
+    text-decoration:none;
+    opacity:0.6;
+}
+.navbar-right li a:hover{
+    opacity:1;
+}
+.navbar-text li{
+    display:inline-block;
+    padding-right:30px;
+}
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+.jumbotron p{
+    font-size:20px;
+}
+.row{
+    margin-left:20px;
+}
+.foto_item{
+    width:150px;
+    height:200px;
+    float:left;
+    text-align:center;
+    margin-right:10px;
+}
+.foto_item img{
+    width:150px;
+    height:100px;
+}
